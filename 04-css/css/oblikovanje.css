@@ -30,7 +30,9 @@ body {
         background-color: rgb(51, 0, 102, 0.1);
     }
     .slika [class ="slika"]{ 
-        border: #cc0000 2px solid;
+        width: 40%;
+        font-size: 0.9em;
+        text-align: left
     };
 }
 
