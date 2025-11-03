@@ -29,7 +29,7 @@ body {
         padding: 2em 2em 2em 2em;
         background-color: rgb(51, 0, 102, 0.1);
     }
-    div{
+    .slika [class ="slika"]{ 
         border: #cc0000 2px solid;
     };
 }
